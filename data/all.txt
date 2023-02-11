@@ -1,0 +1,2 @@
+#Windows系统合并多个txt文件为一个
+copy  *.txt  all.txt
